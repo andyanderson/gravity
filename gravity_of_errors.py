@@ -7,6 +7,8 @@ A set of functions to calculate the effects of gravity.
 
 Created on Mon Jun 17 18:28:40 2019
 
+Updated on Mon Jun 21 2020
+
 @author: aanderson
 """
 
