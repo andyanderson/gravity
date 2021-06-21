@@ -4,4 +4,3 @@
 A Study of the Utmost Gravity
 
 A set of functions to calculate the effects of gravity.
-
